@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Saishalini A 👋
 
-<!--
-**saishalini-java/saishalini-java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💻 Aspiring Java Developer  
+🌱 Currently learning Java, Python, React and Web Development.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Software Development and Artificial Intelligence.
+- Learning to build real-world applications.
+- Improving my problem-solving and technical skills.
+- Passionate about learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Python
+- C
+- HTML & CSS
+- React
+- Flask
+- Git & GitHub
+
+## Featured Project
+
+### FUTUREPATH AI – Student Career Platform
+An AI-powered platform designed to help students with personalized learning roadmaps, coding practice, aptitude preparation and career guidance.
+
+🔗 [Live Project](https://ai-student-career-platform.onrender.com)
+
+🔗 [GitHub Repository](https://github.com/saishalini-java/AI-Student-Career-Platform)
+
+## Connect With Me
+- GitHub: https://github.com/saishalini-java
+
+---
+⭐ Always learning, building and growing!
